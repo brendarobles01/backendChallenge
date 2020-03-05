@@ -23,7 +23,7 @@ cd backendChallenge
 code .
 ```
 
-or directly from the visual studio codo
+or directly from the visual studio code
 
 
 4. Install the application's dependencies 
