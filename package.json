@@ -1,0 +1,15 @@
+{
+  "name": "brendar_graphqlworkshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "collection": "newman run BrendaRobles_GraphqlWorkshop.postman_collection.json"
+  },
+  "author": "Brenda Robles",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^4.6.0",
+    "newman-reporter-html": "^1.0.5"
+  }
+}
