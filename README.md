@@ -1,3 +1,7 @@
+## Overview
+
+This repository exclusively contains the BackEnd - GraphQL
+
 
 ## Getting Started
 
