@@ -17,7 +17,16 @@ git clone git@github.com:brendarobles01/backendChallenge.git
 cd backendChallenge
 ```
 
-3. Install the application's dependencies 
+3. Open in Visual Code
+
+```
+code .
+```
+
+or directly from the visual studio codo
+
+
+4. Install the application's dependencies 
 
 ```
 npm install newmam
