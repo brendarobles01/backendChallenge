@@ -1,8 +1,8 @@
 const newman = require('newman'); 
 
 newman.run({
-    collection: require('../BrendaR_GraphqlWorkshop/BrendaRobles_GraphqlWorkshop.postman_collection.json'),
-    exportEnvironment: require('../BrendaR_GraphqlWorkshop/url.postman_environment.json'),
+    collection: require('../BrendaR_GraphqlWorkshop/postmanJson/BrendaRobles_GraphqlWorkshop.postman_collection.json'),
+    exportEnvironment: require('../BrendaR_GraphqlWorkshop/postmanJson/url.postman_environment.json'),
     reporters: 'html',
     reporter: {
         html: {

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "collection": "newman run BrendaRobles_GraphqlWorkshop.postman_collection.json"
+    "collection": "newman run postmanJson/BrendaRobles_GraphqlWorkshop.postman_collection.json"
   },
   "author": "Brenda Robles",
   "license": "ISC",
