@@ -17,7 +17,7 @@ git clone git@github.com:brendarobles01/backendChallenge.git
 cd backendChallenge
 ```
 
-3. Open in Visual Code
+3. Open in Visual Code (Optional)
 
 ```
 code .
