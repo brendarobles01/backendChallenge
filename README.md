@@ -27,9 +27,3 @@ npm run collection
 ```
 
 
-
-## Run  test scripts command 
-
-```
-npm run collection
-```
